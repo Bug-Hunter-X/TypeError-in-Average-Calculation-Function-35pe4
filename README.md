@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: a TypeError caused by attempting to perform arithmetic operations on a list containing non-numeric values. The initial code lacks error handling. The solution showcases improved error handling using a try-except block to gracefully handle potential TypeErrors.
